@@ -1,2 +1,2 @@
-# EXERCICIO_ERROS_HTML_CSS_JS-
-repositorio destinado ao projeto web(html,cssc,js )
+# CA-A_ERROS_HTML_CSS_JS
+Repositório destinado ao exercício de caça erros no HTML, CSS e JS.
